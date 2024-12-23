@@ -95,7 +95,7 @@ const musicData = [
     album: "Yaarian",
     year: 2013,
     artist: "Yo Yo Honey Singh, Neha Kakkar",
-    musicPath: "./assets/music/Sunnysunny.mp3",
+    musicPath: "./assets/music/Blue%20Eyes%20Honey%20Singh%20(Lyrical%20Video)%20Official%20Blockbuster%20Song%20Of%202013.mp3",
   },
 ];
 
