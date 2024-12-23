@@ -88,6 +88,15 @@ const musicData = [
     artist: "Silambarasan TR",
     musicPath: "./assets/music/Theethala.mp3",
   },
+   {
+    backgroundImage: "./assets/images/Thumbs.db",
+    posterUrl: "./assets/images/Thumbs.db",
+    title: "Sunny Sunny",
+    album: "Yaarian",
+    year: 2013,
+    artist: "Yo Yo Honey Singh, Neha Kakkar",
+    musicPath: "./assets/music/Sunnysunny.mp3",
+  },
 ];
 
 
