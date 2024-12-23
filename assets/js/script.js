@@ -59,7 +59,7 @@ const musicData = [
     album: "Aavesham",
     year: 2024,
     artist: "Dabzee, Vinayak Sasikumar, Sushin Shyam",
-    musicPath: "./assets/music/illuminati.mp3",
+    musicPath: "./assets/music/Illuminati.mp3",
   },
   {
     backgroundImage: "./assets/images/vett.jpg",
