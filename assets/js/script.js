@@ -104,7 +104,7 @@ const musicData = [
     album: "Animal",
     year: 2023,
     artist: "Harshavardhan Rameshwar",
-    musicPath: "./assets/music/Theethala.mp3",
+    musicPath: "./assets/music/ANIMAL Abrars Entry - Jamal Kudu (Lyrical Video) Bobby Deol Sandeep Vanga Bhushan Kumar.mp3",
   },
 ];
 
