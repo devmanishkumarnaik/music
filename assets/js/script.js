@@ -97,6 +97,15 @@ const musicData = [
     artist: "Yo Yo Honey Singh, Neha Kakkar",
     musicPath: "./assets/music/Sunny%20Sunny%20Yaariyan%20Lyric%20Video%20%20Ft.Yo%20Yo%20Honey%20Singh%20%20Divya%20Khosla%20Kumar%20Himansh%20K%2C%20Rakul%20P.mp3",
   },
+  {
+    backgroundImage: "./assets/images/jamalkudu.jpg",
+    posterUrl: "./assets/images/jamalkudu.jpg",
+    title: "Abrar’s Entry | Jamal Kudu",
+    album: "Animal",
+    year: 2023,
+    artist: "Harshavardhan Rameshwar",
+    musicPath: "./assets/music/Theethala.mp3",
+  },
 ];
 
 
