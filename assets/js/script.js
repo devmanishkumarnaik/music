@@ -89,8 +89,8 @@ const musicData = [
     musicPath: "./assets/music/Theethala.mp3",
   },
    {
-    backgroundImage: "./assets/images/Thumbs.db",
-    posterUrl: "./assets/images/Thumbs.db",
+    backgroundImage: "./assets/images/sunnysunny.jpg",
+    posterUrl: "./assets/images/sunnysunny.jpg",
     title: "Sunny Sunny",
     album: "Yaarian",
     year: 2013,
