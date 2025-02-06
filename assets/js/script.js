@@ -106,6 +106,15 @@ const musicData = [
     artist: "Harshavardhan Rameshwar",
     musicPath: "./assets/music/ANIMAL Abrars Entry - Jamal Kudu (Lyrical Video) Bobby Deol Sandeep Vanga Bhushan Kumar.mp3",
   },
+  {
+    backgroundImage: "./assets/images/jamalkudu.jpg",
+    posterUrl: "./assets/images/jamalkudu.jpg",
+    title: "Abrar’s Entry | Jamal Kudu",
+    album: "Animal",
+    year: 2023,
+    artist: "Harshavardhan Rameshwar",
+    musicPath: "./assets/music/ANIMAL Abrars Entry - Jamal Kudu (Lyrical Video) Bobby Deol Sandeep Vanga Bhushan Kumar.mp3",
+  },
 ];
 
 
