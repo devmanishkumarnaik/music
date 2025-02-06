@@ -107,10 +107,10 @@ const musicData = [
     musicPath: "./assets/music/ANIMAL Abrars Entry - Jamal Kudu (Lyrical Video) Bobby Deol Sandeep Vanga Bhushan Kumar.mp3",
   },
   {
-    backgroundImage: "./assets/images/jamalkudu.jpg",
-    posterUrl: "./assets/images/jamalkudu.jpg",
+    backgroundImage: "./assets/images/justin.jpg",
+    posterUrl: "./assets/images/justin.jpg",
     title: "Baby ft. Ludacris",
-    album: "World 2.0",
+    album: "My World 2.0",
     year: 2010,
     artist: " Justin Bieber, Ludacris",
     musicPath: "./assets/music/Justin Bieber - Baby ft. Ludacris.mp3",
